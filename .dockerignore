@@ -1,0 +1,6 @@
+/.github/workflows
+/devops
+/node_modules
+/.next
+/gitlab-ci.yml
+/.vscode
